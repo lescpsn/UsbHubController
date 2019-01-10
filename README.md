@@ -8,6 +8,8 @@ $ sudo cnpm install -g dva-cli
 
 2. 创建项目
 $ dva new gui
+$ cd gui
+$ cnpm start
 
 
 
