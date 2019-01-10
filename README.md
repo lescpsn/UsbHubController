@@ -14,7 +14,8 @@ $ cnpm start
 
 
 3. 使用 antd
-cnpm install antd babel-plugin-import --save
+cnpm install antd  --save
+cnpm install babel-plugin-import --save-dev
 
 编辑 .webpackrc，使 babel-plugin-import 插件生效。
 
